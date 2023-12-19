@@ -1,4 +1,4 @@
 # QAOA_MIXER
 Quantum Approximate Optimization Algorithm with Mixing Layers
 
-### Introduction
+Contact me: rongfengxie2315@gmail.com
